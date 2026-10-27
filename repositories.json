@@ -1,0 +1,44 @@
+{
+  "repositories": [
+    {
+      "name": "xray-core",
+      "url": "https://github.com/XTLS/Xray-core.git"
+    },
+    {
+      "name": "passwall2",
+      "url": "https://github.com/Openwrt-Passwall/openwrt-passwall2.git"
+    },
+    {
+      "name": "sing-box",
+      "url": "https://github.com/SagerNet/sing-box.git"
+    },
+    {
+      "name": "luci",
+      "url": "https://github.com/openwrt/luci.git"
+    },
+    {
+      "name": "packages",
+      "url": "https://github.com/openwrt/packages.git"
+    },
+    {
+      "name": "3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui.git"
+    },
+    {
+      "name": "ubuntu-server-documentation",
+      "url": "https://github.com/canonical/ubuntu-server-documentation.git"
+    },
+    {
+      "name": "systemd",
+      "url": "https://github.com/systemd/systemd.git"
+    },
+    {
+      "name": "coreutils",
+      "url": "https://github.com/coreutils/coreutils.git"
+    },
+    {
+      "name": "man-pages",
+      "url": "https://github.com/mkerrisk/man-pages.git"
+    }
+  ]
+}

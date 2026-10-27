@@ -1,0 +1,6 @@
+# PDF text extraction (OCR is intentionally disabled)
+pypdf>=5.0,<7
+PyMuPDF>=1.24
+
+# MCP server used by server.py
+mcp>=1.0,<2

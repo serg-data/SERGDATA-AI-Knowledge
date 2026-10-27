@@ -1,0 +1,48 @@
+# Local knowledge index and state
+/index/*
+!/index/.gitkeep
+
+# User documents and cloned source repositories: never publish their contents
+/documents/*
+!/documents/.gitkeep
+/code/*
+!/code/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# Logs, temporary files, backups, databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.swp
+*~
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
